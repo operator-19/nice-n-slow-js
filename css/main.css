@@ -504,7 +504,7 @@ section {
 #feature {
   /* background: #f9f9f9; */
   background: #f8f0e3;
-  background-image: url('/images/aboutBg.jpg');
+  background-image: url('../images/aboutBg.jpg');
   background-size: cover;
 
 }
