@@ -432,15 +432,15 @@ section {
 }
 
 .slider .item-first {
-  background-image: url(/images/feature3.png);
+  background-image: url(../images/feature3.png);
 }
 
 .slider .item-second {
-  background-image: url(/images/home2.jpg);
+  background-image: url(../images/home2.jpg);
 }
 
 .slider .item-third {
-  background-image: url(/images/palms.jpg);
+  background-image: url(../images/palms.jpg);
 
 }
 
